@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Daffa_ConstraintLayout</string>
+    <string name="todo" translatable="false" />
+    <string name="textview" translatable="false">string</string>
+</resources>
